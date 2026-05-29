@@ -35,4 +35,23 @@ A highly compact, professionally optimized 4-layer custom development board for 
 * 📦 **Production Ready Gerbers:** [`Gerbers.zip`](Gerbers.zip) — Contains all Gerber X2 and drill files, ready to upload to JLCPCB, PCBWay, or local fabs.
 * 📸 **Design Images:** [`Images/`](Images/) — Folder containing board screenshots and 3D renders.
 ---
+---
 
+## 📸 Design Preview
+
+### 1. 3D Render View
+![3D View](Images/3D%20View.png)
+
+### 2. PCB Layout Design
+![PCB Layout](Images/Layout.png)
+
+### 3. Gerber Viewer View
+![Gerber View](Images/Gerber%20view.png)
+
+---
+
+## 🔍 High-Resolution Links
+
+* 🌐 **Full 3D Render:** [Click here to view 3D Render](Images/3D%20View.png)
+* 🗺️ **Full PCB Layout:** [Click here to view Layout Screenshot](Images/Layout.png)
+* 🔬 **Full Gerber View:** [Click here to view Gerber Screenshot](Images/Gerber%20view.png)
