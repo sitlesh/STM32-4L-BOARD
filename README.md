@@ -1,6 +1,6 @@
 # STM32 Custom Development Board (v1.0)
 
-A highly compact, professionally optimized 4-layer custom development board for the STM32 Microcontroller, designed using KiCad. The layout utilizes a dedicated 4-layer stackup to achieve superior signal integrity, low-noise power distribution, and a minimal form factor.
+A highly compact, professionally optimized 4-layer custom development board for the STM32 Microcontroller, designed using KiCad 10.0. The layout utilizes a dedicated 4-layer stackup to achieve superior signal integrity, low-noise power distribution, and a minimal form factor.
 
 ---
 
@@ -27,11 +27,13 @@ A highly compact, professionally optimized 4-layer custom development board for 
 
 ---
 
-## 📦 Project Structure
-* `/Hardware` - KiCad schematic (`.kicad_sch`) and PCB layout (`.kicad_pcb`) files.
-* `/Manufacturing` - Production-ready Gerber and Drill files (`.zip`).
-* `/Images` - 3D renders and layout screenshots.
+## 📦 Project Structure & Quick Links
 
+* 📝 **Schematic File:** [`STM32-4L-MCU-BOARD.kicad_sch`](STM32-4L-MCU-BOARD.kicad_sch) — Complete 4-layer circuit diagram.
+* 🎛️ **PCB Layout File:** [`STM32-4L-MCU-BOARD.kicad_pcb`](STM32-4L-MCU-BOARD.kicad_pcb) — 4-Layer board routing and stackup definition.
+* ⚙️ **Project File:** [`STM32-4L-MCU-BOARD.kicad_pro`](STM32-4L-MCU-BOARD.kicad_pro) — KiCad project configuration file.
+* 📦 **Production Ready Gerbers:** [`Gerbers.zip`](Gerbers.zip) — Contains all Gerber X2 and drill files, ready to upload to JLCPCB, PCBWay, or local fabs.
+* 📸 **Design Images:** [`Images/`](Images/) — Folder containing board screenshots and 3D renders.
 ---
 
 ## 📸 Design Preview
