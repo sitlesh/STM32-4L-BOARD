@@ -37,6 +37,6 @@ A highly compact, professionally optimized 4-layer custom development board for 
 ---
 
 ## 📸 Design Preview
-![PCB Layout]<img width="3450" height="1886" alt="STM32-4L-MCU-BOARD" src="https://github.com/user-attachments/assets/9028cdb0-4734-4a67-a3a3-e0b07ca5e57c" />
+![PCB Gerber Layout](<img width="1747" height="1718" alt="Screenshot (45)" src="https://github.com/user-attachments/assets/b6491853-0f99-4ca6-8d80-b42e2d8e1148" />)
 
 *(Note: Rename your screenshot to match this path or update the filename here)*
