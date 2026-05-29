@@ -36,7 +36,3 @@ A highly compact, professionally optimized 4-layer custom development board for 
 * 📸 **Design Images:** [`Images/`](Images/) — Folder containing board screenshots and 3D renders.
 ---
 
-## 📸 Design Preview
-![PCB Gerber Layout](<img width="1747" height="1718" alt="Screenshot (45)" src="https://github.com/user-attachments/assets/b6491853-0f99-4ca6-8d80-b42e2d8e1148" />)
-
-*(Note: Rename your screenshot to match this path or update the filename here)*
